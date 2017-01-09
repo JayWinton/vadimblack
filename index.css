@@ -1,0 +1,57 @@
+#card{
+    margin-left: 250px;
+}
+
+#list{
+    display: inline-flex;
+    padding-top: 30px;
+    margin-left: 180px;
+    align-self: auto;
+    
+}
+
+#top{
+    padding:100px;
+    clear:inherit;
+    margin-left: -80px;
+    
+}
+
+#middle{
+    margin-left: 700px;
+    clear: inherit;
+    margin-top: -20px;
+}
+
+body {
+    Background: #dedede;
+    font-family: arial;
+    font-size:100%;
+    margin: 0;
+    padding: 0;
+}
+
+#bottom{
+    margin-bottom: 10px;
+}
+
+.wrapper {
+    width: 880px;
+    height: auto;
+    margin:  0 auto;
+    background: #fff;
+  padding:20px;
+}
+
+footer{
+    clear: both;
+    height: 50px;
+    width: 100%;
+    text-align: center;
+    margin: 0;
+    font-family:serif;
+    font-weight:10px;
+    font-size: 12px;
+    background-color: white;
+    color:red;
+}
